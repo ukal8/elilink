@@ -1,0 +1,23 @@
+h5 {
+  margin: 30px 0 0 0;
+}
+
+h3 {
+  margin: 0;
+}
+
+.form-inline {
+  margin: 20px 0;
+}
+
+tr:nth-child(2n) {
+  background-color: #eee;
+}
+
+tbody>tr:last-child {
+  background-color: white;
+}
+
+label {
+  font-weight: 400;
+}
